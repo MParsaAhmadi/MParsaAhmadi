@@ -1,54 +1,68 @@
+```txt
 <div align="center">
 
 <!-- ELEGANT HEADER WITH GRADIENT -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0891b2,100:06b6d4&height=120&section=header"/>
 
-<!-- PROFILE INTRO -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=600&lines=Mohammad+Parsa+Ahmadi;Computer+Science+%40+Shahid+Beheshti+University;Building+Elegant+Solutions+with+Code" alt="Typing SVG" />
+<!-- PROFILE NAME & TITLE -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" />
+  Mohammad Parsa Ahmadi
+</h1>
 
-<br/>
+<h3 align="center" style="color: #22d3ee;">
+  Computer Science Student @ Shahid Beheshti University
+</h3>
 
 <!-- PROFESSIONAL TAGLINE -->
-<p>
-<em>Passionate about crafting efficient algorithms and clean, maintainable code.</em>
+<p align="center">
+  <em>Passionate about crafting efficient algorithms and clean, maintainable code</em>
 </p>
 
 <!-- CONTACT BADGES -->
-<a href="https://mparsaahmadi.ir">
-  <img src="https://img.shields.io/badge/Portfolio-mparsaahmadi.ir-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://linkedin.com/in/MParsaAhmadi">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:MParsAhmadi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<div align="center">
+  <a href="https://mparsaahmadi.ir">
+    <img src="https://img.shields.io/badge/Portfolio-mparsaahmadi.ir-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/MParsaAhmadi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:MParsAhmadi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
-<br/>
 <br/>
 
 <!-- PROFILE STATS -->
-<img src="https://komarev.com/ghpvc/?username=MParsaAhmadi&style=for-the-badge&color=0891b2&label=Profile+Views" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/MParsaAhmadi?style=for-the-badge&color=2563eb&label=Followers&logo=github" alt="Followers"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MParsaAhmadi&style=for-the-badge&color=0891b2&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=2563eb&label=Followers&query=followers&url=https://api.github.com/users/MParsaAhmadi&style=for-the-badge&logo=github" alt="Followers"/>
+</div>
 
 </div>
 
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
 ```typescript
 const parsa = {
-    location: "Tehran, Iran",
-    education: "B.Sc. Computer Science @ Shahid Beheshti University",
-    semester: 3,
-    
-    interests: ["Algorithm Design", "Software Architecture", "AI/ML", "Web Development"],
-    
-    currentFocus: "Data Structures & Object-Oriented Design",
-    
-    philosophy: "Write code that humans can understand, not just machines."
+  location: "Tehran, Iran",
+  education: "B.Sc. Computer Science @ Shahid Beheshti University",
+  semester: 3,
+  
+  interests: [
+    "Algorithm Design",
+    "Software Architecture", 
+    "AI/ML",
+    "Web Development"
+  ],
+  
+  currentFocus: "Advanced Programming & System Design",
+  
+  philosophy: "Write code that humans can understand, not just machines."
 };
 ```
 
@@ -58,39 +72,34 @@ const parsa = {
 
 <div align="center">
 
-<!-- LANGUAGES -->
-<h4>Languages</h4>
+### 💻 Programming Languages
 <p>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
 </p>
 
-<!-- WEB -->
-<h4>Web Technologies</h4>
+### 🌐 Web Technologies
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-<!-- TOOLS -->
-<h4>Tools & Platforms</h4>
+### 🔧 Tools & Platforms
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-<!-- CURRENTLY LEARNING -->
-<h4>Currently Exploring</h4>
+### 🚀 Currently Exploring
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </p>
 
 </div>
@@ -120,7 +129,7 @@ const parsa = {
 
 <div align="center">
 
-<!-- PROJECT 1: PORTFOLIO -->
+<!-- PORTFOLIO PROJECT -->
 <a href="https://github.com/MParsaAhmadi/Resume-website">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MParsaAhmadi&repo=Resume-website&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=06b6d4&text_color=cbd5e1" alt="Resume Website"/>
 </a>
@@ -137,7 +146,7 @@ const parsa = {
 
 **Modern Developer Portfolio**
 
-A sleek, responsive portfolio featuring a terminal-inspired design with matrix rain animation, animated skill bars, and 3D card effects.
+A sleek, responsive portfolio featuring terminal-inspired design with matrix rain animation and interactive elements.
 
 **Highlights:**
 - 🎨 Matrix rain animation (Canvas API)
@@ -165,28 +174,59 @@ A sleek, responsive portfolio featuring a terminal-inspired design with matrix r
 
 <br/>
 
-### 📚 Academic Projects
+### 💻 Academic Projects
 
 <table>
 <tr>
 <td width="50%">
 
-**🗂 Data Structures Library**
+#### 📱 Telegram-Style Chat App
+**Advanced Programming Final Project**
 
-Comprehensive C++ implementations of fundamental data structures including linked lists, BSTs, AVL trees, and graph algorithms.
+A modern chat application with comprehensive messaging features built with Java.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-2563eb?style=flat-square)
+**Features:**
+- 🔐 Private messaging & group chats
+- 📢 Channel broadcasting
+- 👥 User management system
+- 💾 Persistent data storage
+
+**Tech Stack:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-06b6d4?style=flat-square)
+![Swing](https://img.shields.io/badge/Swing-2563eb?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Key Achievements:**
+- Implemented MVC architecture
+- Designed relational database schema
+- Created custom UI components
 
 </td>
 <td width="50%">
 
-**🎮 Console Game Engine**
+#### 🍽️ Dormitory Meals Counter
+**Web Development Project**
 
-Object-oriented Java game engine featuring state management, entity systems, and interactive gameplay mechanics.
+A Flask-based web application for managing shared meal contributions in dormitories.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-06b6d4?style=flat-square)
+**Features:**
+- 📊 Real-time meal tracking
+- 👥 Multi-user support
+- 📈 Statistics & reporting
+- 📱 Responsive design
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Key Features:**
+- User authentication system
+- Dynamic meal calculations
+- Exportable reports
+- Admin dashboard
 
 </td>
 </tr>
@@ -209,6 +249,7 @@ Object-oriented Java game engine featuring state management, entity systems, and
 - Object-Oriented Programming
 - Discrete Mathematics
 - Computer Architecture
+- Advanced Programming
 
 </td>
 </tr>
@@ -219,10 +260,10 @@ Object-oriented Java game engine featuring state management, entity systems, and
 ## 📈 Current Focus
 
 ```
-🔬 Learning    │  Advanced Algorithms • System Design • Web Development
-🛠️ Building    │  Portfolio projects to strengthen practical skills
-📖 Reading     │  Clean Code • Design Patterns • CLRS
-🎯 Goal        │  Become a well-rounded Software Engineer
+🔬 Learning    │ Advanced Algorithms • System Design • Web Development
+🛠️ Building    │ Portfolio projects to strengthen practical skills  
+📖 Reading     │ Clean Code • Design Patterns • CLRS
+🎯 Goal        │ Become a well-rounded Software Engineer
 ```
 
 <br/>
@@ -251,9 +292,6 @@ Object-oriented Java game engine featuring state management, entity systems, and
 <a href="https://github.com/MParsaAhmadi">
   <img src="https://img.shields.io/badge/GitHub-MParsaAhmadi-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-<a href="https://instagram.com/MParsaAhmadi">
-  <img src="https://img.shields.io/badge/Instagram-MParsaAhmadi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
 <a href="https://t.me/MParsaAhmadi">
   <img src="https://img.shields.io/badge/Telegram-MParsaAhmadi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
@@ -278,3 +316,4 @@ Object-oriented Java game engine featuring state management, entity systems, and
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0891b2,100:06b6d4&height=100&section=footer"/>
 
 </div>
+```
