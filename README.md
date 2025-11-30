@@ -6,7 +6,7 @@ Building efficient, scalable solutions with a focus on clean code and algorithmi
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mparsaahmadi.ir-0366d6?style=flat&logo=google-chrome&logoColor=white)](https://mparsaahmadi.ir/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/MParsaAhmadi)
-[![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:parsa.ahmadi@mail.sbu.ac.ir)
+[![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:MParsAhmadi@gmail.com)
 
 ---
 
@@ -49,42 +49,43 @@ A modern, responsive portfolio featuring a terminal-inspired design with matrix 
 - Zero external dependencies
 
 [![Live Demo](https://img.shields.io/badge/Live-mparsaahmadi.ir-00aaff?style=flat)](https://mparsaahmadi.ir/)
+
 [![Source Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github)](https://github.com/MParsaAhmadi/Resume-website)
 
 ---
 
-### 📊 Data Structures Library *(Academic Project)*
-Comprehensive implementation of fundamental data structures with optimized algorithms for educational purposes.
+### 📊 Telegram application *(Academic Project)*
+My Advanced Programming final project: Chat Application A modern, multi-functional chat application with private, group, and channel messaging capabilities.
 
-**Tech Stack:** `C++` `OOP` `STL`
+**Tech Stack:** `java` `OOP` `API`
 
-**Implementations:**
-- Linked Lists (Singly, Doubly, Circular)
-- Binary Search Trees & AVL Trees
-- Hash Tables with collision handling
-- Graph algorithms (BFS, DFS, Dijkstra)
+[![Source Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github)](https://github.com/MParsaAhmadi/TelegramApp-APproject)
 
 ---
 
-### 🎮 Console Game Engine *(Academic Project)*
-Text-based game engine featuring modular architecture, state management, and extensible game mechanics.
+### 📊 Dormitory Meals Counter
+A smart and minimal Flask-based web application for managing and tracking shared meal contributions in dormitories.
 
-**Tech Stack:** `Java` `OOP` `Design Patterns`
+**Tech Stack:** `Python` `Web` `HTML` 
 
-**Features:**
-- Entity-Component architecture
-- Event-driven input handling
-- Configurable game states
-- Save/Load functionality
+[![Source Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github)](https://github.com/MParsaAhmadi/dorm-meals-flask)
+
+---
+
+
+### 📊 Digital Visit-Card for ParsUPVC company
+A polished, high-end digital business card designed for Pars Panjareh Daneshvari. Optimized for GitHub, NFC cards, and QR-based sharing with a luxurious visual identity.
+
+**Tech Stack:** `HTML5` `Graphics`
+
+[![Live Demo](https://img.shields.io/badge/Live-View-00aaff?style=flat)](https://mparsaahmadi.github.io/ParsUPVC-Card/)
+
+[![Source Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github)](https://github.com/MParsaAhmadi/ParsUPVC-Card)
 
 ---
 
 ## GitHub Analytics
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MParsaAhmadi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MParsaAhmadi&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MParsaAhmadi&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
@@ -126,7 +127,7 @@ I'm always interested in collaborating on meaningful projects, discussing techno
   <a href="https://mparsaahmadi.ir/"><strong>🌐 Portfolio</strong></a> •
   <a href="https://linkedin.com/in/MParsaAhmadi"><strong>💼 LinkedIn</strong></a> •
   <a href="https://github.com/MParsaAhmadi"><strong>🐙 GitHub</strong></a> •
-  <a href="mailto:parsa.ahmadi@mail.sbu.ac.ir"><strong>📧 Email</strong></a>
+  <a href="mailto:MParsAhmadi@gmail.com"><strong>📧 Email</strong></a>
 </p>
 
 ---
